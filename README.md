@@ -1,7 +1,7 @@
 <h1>Hi there, my name is Eric&nbsp;<img height="40px" src="https://i1.wp.com/blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"/></h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yuriserka/">
+  <a href="https://www.linkedin.com/in/eric-serka/">
     <img
       alt="LinkedIn"
       title="LinkedIn"
