@@ -14,7 +14,7 @@
 
 # About me
 
-- ### 🎓 Undergraduate Communication Network Engineering student at Universidade de Brasília
+- ### 🎓 Graduated in Communication Network Engineering
 - ### 🧑🏻‍💻 Knowledge in web development
 
 <br />
