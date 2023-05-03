@@ -34,6 +34,9 @@
   <a>
     <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
   </a>
+  <a>
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+  </a>
 </p>
 </p>
 
@@ -54,6 +57,9 @@
   </a>
   <a>
     <img src="https://img.shields.io/badge/Phoenix%20Framework-%23fd4f00.svg?style=for-the-badge">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
   </a>
   <a>
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
