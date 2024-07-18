@@ -89,17 +89,11 @@
 
 # Github Stats
 
-<img
-  alt="Github Stats"
-  src="https://github-readme-stats.vercel.app/api?username=ericserka&show_icons=true&count_private=true&theme=onedark"
-  />
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=ericserka&show_icons=true&locale=en&theme=onedark" alt="ericserka github stats" /></p>
 
 <p style="margin: 1.2rem 0;" />
 
-<img
-  alt="Top Languages"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericserka&langs_count=10&layout=compact&theme=onedark"
-/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=ericserka&langs_count=10&layout=compact&theme=onedark" alt="ericserka top langs" /></p>
 
 <strong>Note:</strong>
 This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
